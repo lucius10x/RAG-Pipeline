@@ -1,0 +1,28 @@
+# Standard Python .gitignore
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.env
+
+# Distribution / Packaging
+.Python
+env/
+build/
+dist/
+.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest
+*.log
+
+# Miscellaneous
+*.DS_Store
+*.so
+*.egg
+*.pdb
